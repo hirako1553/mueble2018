@@ -3,9 +3,14 @@
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
+  background: grey;
 }
 
 h1 {
   font-style: italic;
   color: #373fff;
+}
+
+p{
+background-color: lightgreen;
 }
